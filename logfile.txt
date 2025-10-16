@@ -1,0 +1,1 @@
+MDM Enrollment succeeded with the following details {UPN:daniel.sanchez@goes.gob.sv, DiscoveryUrl :https://mdm.manageengine.com:443/mdm/client/v1/enroll?templateToken=################################&encapiKey=######################################################################################################################################&action=discover}

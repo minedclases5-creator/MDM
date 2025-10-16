@@ -1,0 +1,5 @@
+[16:13:05:242]|[13-10-2025]|[default]|[INFO]|[mdmRegistrationHandler.cpp:269]: OPTION :-a
+[16:13:05:242]|[13-10-2025]|[default]|[INFO]|[errorHandler.cpp:62]: Value of serverDetails[] = [mdm.manageengine.com]
+[16:13:05:242]|[13-10-2025]|[default]|[INFO]|[mdmRegistrationHandler.cpp:313]: Value of serverDetails[] = [mdm.manageengine.com, 443]
+[16:13:05:245]|[13-10-2025]|[default]|[INFO]|[errorHandler.cpp:62]: Value of serverDetails[] = [https://mdm.manageengine.com:443/mdm/client/v1/enroll?templateToken=################################&encapiKey=######################################################################################################################################&action=discover]
+[16:13:08:761]|[13-10-2025]|[default]|[INFO]|[mdmRegistrationHandler.cpp:361]: HRESULT returned =0
